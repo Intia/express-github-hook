@@ -1,0 +1,11 @@
+{
+  "name": "express-github-hook",
+  "description": "A simple express route to received github post hook",
+  "author": "Mathieu GOBERT",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "repository": "git://github.com/Intia/express-github-hook.git",
+  "devDependencies": {
+    "jshint": "^2.5.1"
+  }
+}
